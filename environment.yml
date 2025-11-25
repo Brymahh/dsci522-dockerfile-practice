@@ -1,0 +1,9 @@
+name: milestone_2
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11.14
+  - flask=3.1.2
+  - seaborn=0.13.2
+prefix: /Users/braimah/miniforge3/envs/milestone_2
+
