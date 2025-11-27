@@ -1,12 +1,15 @@
-# The github workflow we used in this repostiory is from Tiffany A. Timbers' repository: https://github.com/ttimbers/dsci522-dockerfile-practice
+### Note on Adapted Content: 
+The github workflow utilized in this repostiory is adapted from [Tiffany A. Timbers' repository](https://github.com/ttimbers/dsci522-dockerfile-practice).<br><br>
+
 
 Except where otherwise noted, the example programs and other software
 provided in the `dsci522-dockerfile-practice` repository are made available under the
-MIT license.
+MIT license.<br><br>
 
 MIT License
 
-Copyright (c) 2024 Godsgift Braimah
+Copyright (c) 2020 Tiffany A. Timbers <br>
+Copyright (c) 2025 Godsgift Braimah
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
